@@ -1,0 +1,4 @@
+1. INSTALL TERMUX BEBAS DARI PLATFORM APAPUN
+2. BUKA TERMUX LALU JALANKAN pkg update && pkg upgrade
+3. JALANKAN LAGI pkg install open ssh
+4. JALANKAN ssh -R 80:[IP WIFI YG INGIN DI AKSES]:80 localhost.run
